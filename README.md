@@ -35,7 +35,7 @@ Add the repository to composer.json
 
 Install the package via composer
 ```bash
-composer require arquivei/laravel-prometheus-exporter
+composer require adedamola/laravel-lumen-prometheus-exporter
 ```
 
 After that you may enable facades and register the facade in your application's `bootstrap/app.php`
